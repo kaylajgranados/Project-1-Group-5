@@ -1,5 +1,7 @@
 # Project-1-Group-5: Urban vs Suburban Revenue
 
+You can find the presentation here: https://docs.google.com/presentation/d/1mdrpMCjKoosGX52dK_axO5MSp-O-4cspuzf1Pugy1GA/edit#slide=id.g151a1e44b0a_0_10 
+
 In our project, we wanted to analyize how dense urban areas stack up to richer suburban areas in terms of bringing the city revenue. Our hypothesis for this project was that highly populated, dense areas will bring the city more revenue than suburbs. Our reasoning is that, with so many people in one area, there would be more economic output with a conglomeration of businesses/ high-rise residential areas.
 
 Firstly, we took a few city examples to compare total revenue. We chose the three cities with the largest urban areas and compared them each with a suburban city in the county it is located. Based off our findings, the urban areas made a total revenue greater than suburbia. We suspect that this trend may be similar in comparison to the other urban and suburban areas in the state.
